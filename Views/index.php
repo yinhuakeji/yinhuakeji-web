@@ -35,12 +35,12 @@
                 echo '<td style="width: 180px">';
                 if ($file->type == 'video') {
                     echo '
-                    <a class="btn btn-success pull-left" href="/video?id=' . $file->id . '" target="_black">在线观看</a>';
+                    <a class="btn btn-success pull-left" href="/video/' . $file->id . '" target="_black">在线观看</a>';
                 } else {
                     echo '
-                    <a class="btn btn-success pull-left" href="/read?id=' . $file->id . '" target="_black">阅读</a>';
+                    <a class="btn btn-success pull-left" href="/read/' . $file->id . '" target="_black">阅读</a>';
                 }
-                echo '<a class="btn btn-primary pull-right" href="/download?id=' . $file->id . '">下载</a>';
+                echo '<a class="btn btn-primary pull-right" href="/download/' . $file->id . '">下载</a>';
                 echo '</td>';
                 echo '</tr>';
             }

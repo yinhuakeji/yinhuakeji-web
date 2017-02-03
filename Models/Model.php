@@ -53,7 +53,11 @@ class Model
     public static function find($id)
     {
         $instance = new static;
-        return $instance->select('select * from ' . $instance->table . ' where id=:id', ['id' => $id]);
+        $data = $instance->select('select * from ' . $instance->table . ' where id=:id', ['id' => $id]);
+        if(!count($data)){
+            throw new \ErrorException('light framework error:not found');
+        }
+        return $data;
     }
 
     public static function where($column, $value)

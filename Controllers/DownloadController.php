@@ -12,9 +12,9 @@ use Models\File;
 class DownloadController extends Controller
 {
 
-    public function index()
+    public function show($id)
     {
-        $file = File::find($_GET['id']);
+        $file = File::find($id);
         $file->inc('download');
 
         $downloadFile = PUBLIC_DIR . $file->src;

@@ -12,10 +12,9 @@ use Views\View;
 
 class VideoController extends Controller
 {
-
-    public function index()
+    public function show($id)
     {
-        $video = File::find($_GET['id']);
+        $video = File::find($id);
         $video->inc('read_count');
         View::view('video', ['video' => $video]);
     }

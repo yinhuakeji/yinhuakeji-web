@@ -15,17 +15,20 @@ class ReadController extends Controller
 
     public function __construct()
     {
-        if(!$_GET['id']){
+        if (!$_GET['id']) {
             die('非法访问');
         }
     }
 
-    public function show()
+    public function show($id, $time=null)
     {
-        $file = File::find($_GET['id']);
+        $file = File::find($id);
         $file->inc('read_count');
-        if($file->type == 'pdf'){
-            return View::view('show',compact('file'));
+        if ($file->type == 'pdf') {
+            return View::view('show', compact('file'));
+        }
+        if (isset($time)) {
+            return $this->inc($time);
         }
 
         $downloadFile = PUBLIC_DIR . $file->src;
@@ -42,13 +45,10 @@ class ReadController extends Controller
         return exit;
     }
 
-    public function inc()
+    public function inc($id, $time)
     {
-        if (isset($_GET['time'], $_GET['id'])) {
-            $file = File::find($_GET['id']);
-            $file->inc('read_time', $_GET['time']);
-            return true;
-        }
-        return false;
+        $file = File::find($id);
+        $file->inc('read_time', $time);
+        return true;
     }
 }
