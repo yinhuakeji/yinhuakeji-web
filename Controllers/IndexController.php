@@ -13,7 +13,11 @@ class IndexController extends Controller
 {
     public function index()
     {
-        $files = File::all();
-        return \Views\View::view('index', ['files' => $files]);
+        return \Views\View::view('index');
+    }
+
+    public function show()
+    {
+        return Msg::find(1);
     }
 }
