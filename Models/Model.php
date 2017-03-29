@@ -54,9 +54,9 @@ class Model
     {
         $instance = new static;
         $data = $instance->select('select * from ' . $instance->table . ' where id=:id', ['id' => $id]);
-        if(!count($data)){
-            throw new \ErrorException('light framework error:not found');
-        }
+//        if(!count($data)){
+//            throw new \ErrorException('light framework error:not found');
+//        }
         return $data;
     }
 

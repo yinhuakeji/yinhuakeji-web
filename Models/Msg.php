@@ -7,6 +7,6 @@
  */
 namespace Models;
 
-class File extends Model {
+class Msg extends Model {
 
 }

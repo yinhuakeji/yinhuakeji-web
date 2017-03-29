@@ -7,7 +7,7 @@
  */
 namespace Controllers;
 
-use Models\File;
+use Models\Msg;
 
 class IndexController extends Controller
 {
@@ -18,6 +18,6 @@ class IndexController extends Controller
 
     public function show()
     {
-        return Msg::find(1);
+        return var_dump(Msg::find(1)->content);
     }
 }
