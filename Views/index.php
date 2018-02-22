@@ -102,19 +102,19 @@
 							<li>
 								<div class="banner-info">
 									<h3>银华科技商贸有限公司<span>欢迎您</span></h3>
-									<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas </p>
+									<p>我们经营 液压支架立柱防护套，液压支架不锈钢可伸缩性防护网，菱形防护网等</p>
 								</div>
 							</li>
+<!--							<li>-->
+<!--								<div class="banner-info">-->
+<!--									<h3>我们提供解决方案<span>家用甲醛气体检测</span></h3>-->
+<!--									<p>榆林市除甲醛，家用</p>-->
+<!--								</div>-->
+<!--							</li>-->
 							<li>
 								<div class="banner-info">
-									<h3>我们提供解决方案<span>家用甲醛气体检测</span></h3>
-									<p>榆林市除甲醛，家用</p>
-								</div>
-							</li>
-							<li>
-								<div class="banner-info">
-									<h3>我们专业于<span>煤矿气体分析产品</span></h3>
-									<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas </p>
+									<h3>我们专业于<span>煤矿气体分析产品，液压支架立柱防护套等</span></h3>
+									<p>我们经营 液压支架立柱防护套，液压支架不锈钢可伸缩性防护网，菱形防护网等</p>
 								</div>
 							</li>
 							
@@ -136,16 +136,18 @@
 <!-- content -->
 <div class="content">
 	<div class="col-md-6 content-left">
-		<h3>Our Quality Products</h3>
-		<p>Repellendus tempore, cum soluta nobis est eligendi optio 
-		cumque nihil impedit quo minus id quod maxime placeat 
-		facere possimus, omnis voluptas assumenda est, omnis dolor. </p>
-		<p>libero tempore, cum soluta nobis est eligendi optio 
-		cumque nihil impedit quo minus id quod maxime placeat 
-		facere. </p>
+		<h3>产品说明</h3>
+		<p>液压支架立柱防护套可以保护立柱镀铬层的腐蚀，和煤矸石对立柱的损坏。 </p>
+		<p>液压支架不锈钢可伸缩性防护网可以保护工作人员的人身安全。对立柱也有很好的保护作用。 </p>
 	</div>
-	<div class="col-md-6 content-right">
-		<img class="img-responsive" src="images/pic11.png" alt=" " />
+	<div class="col-md-2 content-right">
+		<img style="width: 360px;height: 306px;" class="img-responsive" src="http://oqngxmzlf.bkt.clouddn.com/WechatIMG178.jpeg" alt=" "/>
+	</div>
+	<div class="col-md-2 content-right">
+		<img style="width: 360px;height: 306px;" class="img-responsive" src="http://oqngxmzlf.bkt.clouddn.com/WechatIMG179.jpeg" alt=" "/>
+	</div>
+	<div class="col-md-2 content-right">
+		<img style="width: 360px;height: 306px;" class="img-responsive" src="http://oqngxmzlf.bkt.clouddn.com/WechatIMG180.jpeg" alt=" "/>
 	</div>
 	<div class="clearfix"></div>
 </div>
@@ -296,7 +298,7 @@
 			</ul>
 		</div>
 		<div class="clearfix"></div>
-		<p>&copy; 2017 PowerBy <a href="https://github.com/horan-geeker/light">light</a> | Design by &nbsp;<a href="https://github.com/horan-geeker">hejunwei</a></p>
+		<p>&copy; 2018 PowerBy <a href="https://github.com/horan-geeker/light">light</a> | Design by &nbsp;<a href="https://github.com/horan-geeker">hejunwei</a></p>
 	</div>
 </div>
 <!-- //footer-top -->
