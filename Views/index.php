@@ -195,8 +195,8 @@
 			<figure class="effect-moses">
 						<img src="images/pic1.jpg" alt="" />
 						<figcaption>
-							<h4>DESMONT</h4>
-							<p>voluptatem quia voluptas sit.</p>
+							<h4>新能源</h4>
+							<p>碳中和，未来的发展方向</p>
 						</figcaption>			
 			</figure>
 		</div>
@@ -298,7 +298,7 @@
 			</ul>
 		</div>
 		<div class="clearfix"></div>
-		<p>&copy; 2018 PowerBy <a href="https://github.com/horan-geeker/light">light</a> | Design by &nbsp;<a href="https://github.com/horan-geeker">hejunwei</a></p>
+		<p>&copy; 2018 PowerBy <a href="https://github.com/horan-geeker/light">light</a> | Design by &nbsp;<a href="https://github.com/horan-geeker">yinhuakeji</a></p>
 	</div>
 </div>
 <!-- //footer-top -->
