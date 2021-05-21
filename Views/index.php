@@ -141,13 +141,13 @@
 		<p>液压支架不锈钢可伸缩性防护网可以保护工作人员的人身安全。对立柱也有很好的保护作用。 </p>
 	</div>
 	<div class="col-md-2 content-right">
-		<img style="width: 360px;height: 306px;" class="img-responsive" src="http://oqngxmzlf.bkt.clouddn.com/WechatIMG178.jpeg" alt=" "/>
+		<img style="width: 360px;height: 306px;" class="img-responsive" src="https://hejunwei-1256147061.cos.ap-beijing.myqcloud.com/WechatIMG1009.jpeg" alt=" "/>
 	</div>
 	<div class="col-md-2 content-right">
-		<img style="width: 360px;height: 306px;" class="img-responsive" src="http://oqngxmzlf.bkt.clouddn.com/WechatIMG179.jpeg" alt=" "/>
+		<img style="width: 360px;height: 306px;" class="img-responsive" src="https://hejunwei-1256147061.cos.ap-beijing.myqcloud.com/WechatIMG1010.jpeg" alt=" "/>
 	</div>
 	<div class="col-md-2 content-right">
-		<img style="width: 360px;height: 306px;" class="img-responsive" src="http://oqngxmzlf.bkt.clouddn.com/WechatIMG180.jpeg" alt=" "/>
+		<img style="width: 360px;height: 306px;" class="img-responsive" src="https://hejunwei-1256147061.cos.ap-beijing.myqcloud.com/WechatIMG1011.jpeg" alt=" "/>
 	</div>
 	<div class="clearfix"></div>
 </div>

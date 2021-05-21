@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: hejunwei
- * Date: 11/21/16
- * Time: 12:06 AM
- */
 namespace Views;
 
 class View{
