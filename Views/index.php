@@ -256,7 +256,7 @@
 <!-- footer-top -->
 <div class="footer-top">
 	<div class="container">
-		<div class="col-md-3 footer-grids">
+		<div class="col-md-6 footer-grids">
 			<h3>公司</h3>
 			<ul>
 				<li><a href="index.html">主页</a></li>
@@ -266,27 +266,7 @@
 				<li><a href="contact.html">联系我们</a></li>
 			</ul>
 		</div>
-		<div class="col-md-3 footer-grids">
-			<h3>Information</h3>
-			<ul>
-				<li><a href="#">Repellendus tempore</a></li>
-				<li><a href="#">Voluptas assumenda</a></li>
-				<li><a href="#">Dolor repellendus</a></li>
-				<li><a href="#">Facere possimus</a></li>
-				<li><a href="#">Repellendus tempore</a></li>
-			</ul>
-		</div>
-		<div class="col-md-3 social-icons">
-			<h3>Follow us</h3>
-			<ul>
-				<li><a class="fb" href="#">Facebook</a></li>
-				<li><a class="twitt" href="#">Twitter</a></li>
-				<li><a class="goog" href="#">Google+</a></li>
-				<li><a class="drib" href="#">Dribbble</a></li>
-				<li><a class="pin" href="#">Pinterest</a></li>
-			</ul>
-		</div>
-		<div class="col-md-3 footer-grids">
+		<div class="col-md-6 footer-grids">
 			<h3>联系我们</h3>
 			<h2><a href="/">榆林市银华科技商贸有限公司</a></h2>
 			<ul>
