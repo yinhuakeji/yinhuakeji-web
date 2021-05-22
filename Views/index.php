@@ -58,7 +58,7 @@
 								<ul class="nav navbar-nav ">
 									<li><a class=" active" href="/">主页</a></li>
 									<li><a href="#">关于我们</a></li>
-									<li><a  href="#">产品展示</a></li>
+									<li><a  href="/gallery">产品展示</a></li>
 									<li><a  href="#">解决方案</a></li>
 									<li><a  href="#">联系我们</a></li>
 								</ul>
