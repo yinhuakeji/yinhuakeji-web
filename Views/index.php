@@ -160,28 +160,28 @@
 			<ul id="sti-menu" class="sti-menu">
 				<li data-hovercolor="#fff">
 					<a href="#">
-						<h4 data-type="mText" class="sti-item">PERFORMANCE</h4>
+						<h4 data-type="mText" class="sti-item">液压支架弹性可伸缩防护网</h4>
 						<p data-type="sText" class="sti-item">Voluptatem quia voluptas</p>
 						<span data-type="icon" class="sti-icon sti-icon-care sti-item"></span>
 					</a>
 				</li>
 				<li data-hovercolor="#fff">
 					<a href="#">
-						<h4 data-type="mText" class="sti-item">INNOVATIONS</h4>
+						<h4 data-type="mText" class="sti-item">液压支架可伸缩护套</h4>
 						<p data-type="sText" class="sti-item">Voluptatem quia voluptas</p>
 						<span data-type="icon" class="sti-icon sti-icon-alternative sti-item"></span>
 					</a>
 				</li>
 				<li data-hovercolor="#fff">
 					<a href="#">
-						<h4 data-type="mText" class="sti-item">RESEARCH</h4>
+						<h4 data-type="mText" class="sti-item">空气能采暖</h4>
 						<p data-type="sText" class="sti-item">Voluptatem quia voluptas</p>
 						<span data-type="icon" class="sti-icon sti-icon-family sti-item"></span>
 					</a>
 				</li>
 				<li data-hovercolor="#fff">
 					<a href="#">
-						<h4 data-type="mText" class="sti-item">TECHNOLOGIES</h4>
+						<h4 data-type="mText" class="sti-item">煤气氧含量分析仪</h4>
 						<p data-type="sText" class="sti-item">Voluptatem quia voluptas</p>
 						<span data-type="icon" class="sti-icon sti-icon-info sti-item"></span>
 					</a>
@@ -208,15 +208,10 @@
 <div class="quote">
 	<div class="container">
 		<div class="quote-left">
-			<h3>Want to get some more information about our services</h3>
-			<p>Seligendi optio 
-				cumque nihil impedit quo minus id quod maxime placeat 
-				facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
-				libero tempore, cum soluta nobis est eligendi optio 
-				cumque nihil impedit quo minus id quod maxime placeat 
-				facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. </p>
+			<h3>我们业务涵盖的地域范围</h3>
+			<p>目前我们办公地点主要在陕西省榆林市、神木市</p>
 		</div>
-			<a href="#" class="hvr-outline-out button-left">GET A QUOTE</a>
+			<a href="#" class="hvr-outline-out button-left">联系我们</a>
 		<div class="clearfix"></div>
 	</div>
 </div>

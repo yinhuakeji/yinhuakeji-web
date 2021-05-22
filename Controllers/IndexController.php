@@ -16,6 +16,11 @@ class IndexController extends Controller
         return \Views\View::view('index');
     }
 
+    public function gallery()
+    {
+        return \Views\View::view('gallery');
+    }
+
     public function show()
     {
         return var_dump(Msg::find(1)->content);
