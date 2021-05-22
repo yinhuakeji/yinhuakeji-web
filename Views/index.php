@@ -161,28 +161,28 @@
 				<li data-hovercolor="#fff">
 					<a href="#">
 						<h4 data-type="mText" class="sti-item">液压支架弹性可伸缩防护网</h4>
-						<p data-type="sText" class="sti-item">Voluptatem quia voluptas</p>
+						<!-- <p data-type="sText" class="sti-item">Voluptatem quia voluptas</p> -->
 						<span data-type="icon" class="sti-icon sti-icon-care sti-item"></span>
 					</a>
 				</li>
 				<li data-hovercolor="#fff">
 					<a href="#">
 						<h4 data-type="mText" class="sti-item">液压支架可伸缩护套</h4>
-						<p data-type="sText" class="sti-item">Voluptatem quia voluptas</p>
+						<!-- <p data-type="sText" class="sti-item">Voluptatem quia voluptas</p> -->
 						<span data-type="icon" class="sti-icon sti-icon-alternative sti-item"></span>
 					</a>
 				</li>
 				<li data-hovercolor="#fff">
 					<a href="#">
 						<h4 data-type="mText" class="sti-item">空气能采暖</h4>
-						<p data-type="sText" class="sti-item">Voluptatem quia voluptas</p>
+						<!-- <p data-type="sText" class="sti-item">Voluptatem quia voluptas</p> -->
 						<span data-type="icon" class="sti-icon sti-icon-family sti-item"></span>
 					</a>
 				</li>
 				<li data-hovercolor="#fff">
 					<a href="#">
 						<h4 data-type="mText" class="sti-item">煤气氧含量分析仪</h4>
-						<p data-type="sText" class="sti-item">Voluptatem quia voluptas</p>
+						<!-- <p data-type="sText" class="sti-item">Voluptatem quia voluptas</p> -->
 						<span data-type="icon" class="sti-icon sti-icon-info sti-item"></span>
 					</a>
 				</li>

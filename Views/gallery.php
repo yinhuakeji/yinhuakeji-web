@@ -91,7 +91,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 				</div>
 		</div>
-	</div>
 <!-- gallery -->
 <div class="gallery">
 	<div class="container">
@@ -111,9 +110,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="col-md-6 baner-top">
 						<figure class="effect-bubba">
 							<a href="images/g2.jpg" class="b-link-stripe b-animate-go  swipebox">
-								<img src="images/g2.jpg" alt="" class="img-responsive" />
+								<img src="https://hejunwei-1256147061.cos.ap-beijing.myqcloud.com/WechatIMG1009.jpeg" alt="" class="img-responsive" />
 								<figcaption>
-									<h4>Desmont</h4>
+									<h4>液压支架弹性可伸缩防护网</h4>
 									<p>In sit amet sapien eros Integer dolore magna aliqua</p>	
 								</figcaption>	
 							</a>
