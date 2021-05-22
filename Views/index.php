@@ -56,7 +56,7 @@
 							<!-- Collect the nav links, forms, and other content for toggling -->
 							<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
 								<ul class="nav navbar-nav ">
-									<li><a class=" active" href="/">主页</a></li>
+									<li><a class="active" href="/">主页</a></li>
 									<li><a href="#">关于我们</a></li>
 									<li><a  href="/gallery">产品展示</a></li>
 									<li><a  href="#">解决方案</a></li>
@@ -217,7 +217,7 @@
 </div>
 <!-- //quote -->
 <!-- creative -->
-<div class="creative">
+<!-- <div class="creative">
 	<div class="container">
 		<h3>Committed to value-added services and solid reputation</h3>
 		<div class="col-md-6 creative-left">
@@ -246,7 +246,7 @@
 		</div>
 		<div class="clearfix"></div>
 	</div>
-</div>
+</div> -->
 <!-- //creative -->
 <!-- footer-top -->
 <div class="footer-top">

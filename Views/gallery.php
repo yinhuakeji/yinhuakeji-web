@@ -59,19 +59,18 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<span class="icon-bar"></span>
 									<span class="icon-bar"></span>
 								</button>
-								<h1><a class="navbar-brand" href="index.html"><i></i>Desmont</a></h1>
+								<h1><a class="navbar-brand" href="index.html"><i></i>银华科技</a></h1>
 							</div>
 							<!-- Collect the nav links, forms, and other content for toggling -->
 							<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
 								<ul class="nav navbar-nav ">
-									<li><a href="index.html">Home</a></li>
-									<li><a href="about.html">About</a></li>
-									<li><a class=" active" href="gallery.html">Gallery</a></li>
-									<li><a  href="shortcodes.html">shortcodes</a></li>
-									<li><a  href="services.html">Services</a></li>
-									<li><a  href="contact.html">Contact</a></li>
+									<li><a href="/">主页</a></li>
+									<li><a href="#">关于我们</a></li>
+									<li><a class="active" href="/gallery">产品展示</a></li>
+									<li><a  href="#">解决方案</a></li>
+									<li><a  href="#">联系我们</a></li>
 								</ul>
-								<div class="search-box">
+								<!-- <div class="search-box">
 									<div id="sb-search" class="sb-search">
 										<form>
 											<input class="sb-search-input" placeholder="Enter your search term..." type="search" name="search" id="search">
@@ -79,14 +78,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 											<span class="sb-icon-search"> </span>
 										</form>
 									</div>
-								</div>
+								</div> -->
 							</div><!-- /navbar-collapse -->
 							<!-- search-scripts -->
 							<script src="js/classie.js"></script>
 							<script src="js/uisearch.js"></script>
-								<script>
+								<!-- <script>
 									new UISearch( document.getElementById( 'sb-search' ) );
-								</script>
+								</script> -->
 							<!-- //search-scripts -->
 						</nav>
 					</div>
@@ -96,7 +95,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- gallery -->
 <div class="gallery">
 	<div class="container">
-		<h3 class="tittle">Gallery</h3>
+		<h3 class="tittle">产品展示</h3>
 				<div class="gallery-grids">
 					<div class="col-md-6 baner-top">
 						<figure class="effect-bubba">
@@ -185,50 +184,29 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- footer-top -->
 <div class="footer-top">
 	<div class="container">
-		<div class="col-md-3 footer-grids">
-			<h3>Company</h3>
+		<div class="col-md-6 footer-grids">
+			<h3>公司</h3>
 			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="about.html">About</a></li>
-				<li><a href="gallery.html">Gallery</a></li>
-				<li><a href="shortcodes.html">Short Codes</a></li>
-				<li><a href="services.html">Services</a></li>
-				<li><a href="contact.html">Contact</a></li>
+				<li><a href="index.html">主页</a></li>
+				<li><a href="about.html">关于我们</a></li>
+				<li><a href="gallery.html">产品展示</a></li>
+				<li><a href="services.html">解决方案</a></li>
+				<li><a href="contact.html">联系我们</a></li>
 			</ul>
 		</div>
-		<div class="col-md-3 footer-grids">
-			<h3>Information</h3>
+		<div class="col-md-6 footer-grids">
+			<h3>联系我们</h3>
+			<h2><a href="/">榆林市银华科技商贸有限公司</a></h2>
 			<ul>
-				<li><a href="#">Repellendus tempore</a></li>
-				<li><a href="#">Voluptas assumenda</a></li>
-				<li><a href="#">Dolor repellendus</a></li>
-				<li><a href="#">Facere possimus</a></li>
-				<li><a href="#">Repellendus tempore</a></li>
-			</ul>
-		</div>
-		<div class="col-md-3 social-icons">
-			<h3>Follow us</h3>
-			<ul>
-				<li><a class="fb" href="#">Facebook</a></li>
-				<li><a class="twitt" href="#">Twitter</a></li>
-				<li><a class="goog" href="#">Google+</a></li>
-				<li><a class="drib" href="#">Dribbble</a></li>
-				<li><a class="pin" href="#">Pinterest</a></li>
-			</ul>
-		</div>
-		<div class="col-md-3 footer-grids">
-			<h3>Contact</h3>
-			<h2><a href="index.html">Desmont</a></h2>
-			<ul>
-				<li>1234 Marmora Road </li>
-				<li>Glasgow, DO6 90GR.</li>
-				<li>Telephone: +1 123 456 7890</li>
+				<li>陕西省榆林市榆阳区 </li>
+				<li>双灵巷</li>
+				<li>电话: 18098052333</li>
 				
-				<li>E-mail: <a href="mailto:info@example.com">example@mail.com</a></li>
+				<li>邮箱: <a href="mailto:yhkj7444@163.com">yhkj7444@163.com</a></li>
 			</ul>
 		</div>
 		<div class="clearfix"></div>
-		<p>&copy; 2016 Desmont . All rights  Reserved | Design by &nbsp;<a href="http://w3layouts.com">W3layouts</a></p>
+		<p>&copy; 2018 PowerBy <a href="https://github.com/horan-geeker/light">light</a> | Design by &nbsp;<a href="https://github.com/horan-geeker">yinhuakeji</a></p>
 	</div>
 </div>
 <!-- //footer-top -->
